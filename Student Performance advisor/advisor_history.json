@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "09/04 11:06",
+    "score": 86.1,
+    "low": 82.2,
+    "high": 90.0,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:14",
+    "score": 86.1,
+    "low": 82.2,
+    "high": 90.0,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:14",
+    "score": 86.1,
+    "low": 82.2,
+    "high": 90.0,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:14",
+    "score": 86.1,
+    "low": 82.2,
+    "high": 90.0,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:15",
+    "score": 86.1,
+    "low": 82.2,
+    "high": 90.0,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:17",
+    "score": 83.6,
+    "low": 79.7,
+    "high": 87.5,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:20",
+    "score": 86.1,
+    "low": 82.2,
+    "high": 90.0,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:20",
+    "score": 75.8,
+    "low": 71.9,
+    "high": 79.7,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:21",
+    "score": 83.6,
+    "low": 79.7,
+    "high": 87.5,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:21",
+    "score": 83.6,
+    "low": 79.7,
+    "high": 87.5,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:22",
+    "score": 83.6,
+    "low": 79.7,
+    "high": 87.5,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 11:26",
+    "score": 78.6,
+    "low": 74.3,
+    "high": 80.9,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "09/04 14:27",
+    "score": 88.8,
+    "low": 84.5,
+    "high": 91.1,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "10/04 13:34",
+    "score": 88.8,
+    "low": 84.5,
+    "high": 91.1,
+    "band": "Strong"
+  },
+  {
+    "timestamp": "15/04 13:02",
+    "score": 88.8,
+    "low": 84.5,
+    "high": 91.1,
+    "band": "Strong"
+  }
+]
