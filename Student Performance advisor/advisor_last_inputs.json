@@ -1,0 +1,17 @@
+{
+  "GPA": 7.0,
+  "university_year": 1.0,
+  "study_hours_per_day": 4.0,
+  "class_attendance_percent": 85.0,
+  "sleep_hours": 5.3,
+  "screen_time_hours": 8.0,
+  "social_media_hours": 4.0,
+  "gaming_hours": 1.0,
+  "exercise_hours_per_week": 1.0,
+  "mental_stress_level": 7.0,
+  "AI_tool_usage_hours": 1.0,
+  "exam_preparation_days": 26.0,
+  "coffee_consumption_per_day": 0.0,
+  "part_time_job": "No",
+  "target_score": 90.0
+}
